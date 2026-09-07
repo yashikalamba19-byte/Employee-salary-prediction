@@ -110,6 +110,17 @@ Model Evaluation
       ↓
 Salary Prediction
 
+## 📸 Screenshots
+
+### Dataset Description
+![Dataset Description](dataset-description.png)
+
+### Model Evaluation
+![Model Evaluation](model-metrics.png)
+
+### Salary Prediction
+![Salary Prediction](prediction.png)
+
 ## Author
 
 Yashika Lamba
